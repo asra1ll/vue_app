@@ -4,7 +4,7 @@
     class="mx-auto mt-5"
   >
     <v-toolbar
-      color="red"
+      color="green"
       dark
     >
       <v-app-bar-nav-icon></v-app-bar-nav-icon>
